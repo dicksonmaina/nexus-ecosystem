@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "drive": "/mnt/bootcamp",
+  "source_dir": "/home/riziki/recovery/bootcamp_saved/documents",
+  "embedded_model": "all-MiniLM-L6-v2",
+  "num_docs": 55,
+  "num_chunks": null,
+  "db": {
+    "sources": 55,
+    "concepts": 1485,
+    "insights": 1485,
+    "projects": 6
+  },
+  "note": "55 non-empty docs ingested (GEMINI.md excluded - zero-byte). bootcamp_saved total files = 61 (includes 6 duplicate-named files). DB has all 55 with unique content hashes."
+}
